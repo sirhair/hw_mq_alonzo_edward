@@ -1,0 +1,28 @@
+body {
+	background-color: red;
+}
+
+@media (min-width: 675px){
+
+	body {
+		background-color: white;
+	}
+
+}
+
+
+@media (min-width: 999px){
+	
+	body {
+		background-color: green;
+	}
+
+}
+
+@media (min-width: 1280px){
+	
+	body {
+		background-color: yellow;
+	}
+
+}
