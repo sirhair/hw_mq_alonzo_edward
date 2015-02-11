@@ -12,7 +12,7 @@ body {
 
 
 @media (min-width: 999px){
-	
+
 	body {
 		background-color: green;
 	}
@@ -20,7 +20,7 @@ body {
 }
 
 @media (min-width: 1280px){
-	
+
 	body {
 		background-color: yellow;
 	}
